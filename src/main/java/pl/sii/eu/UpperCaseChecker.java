@@ -1,4 +1,4 @@
-package pl.sii.eu;
+package main.java.pl.sii.eu;
 
 /**
  * Implement method hasUpperCaseLetters that will return true if given input string has any upper case letters.
@@ -8,3 +8,9 @@ interface UpperCaseChecker {
 
     boolean hasUpperCaseLetters(String input);
 }
+
+
+
+
+
+

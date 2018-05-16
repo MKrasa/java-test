@@ -1,4 +1,4 @@
-package pl.sii.eu;
+package main.java.pl.sii.eu;
 
 /**
  * Implement method hasDuplicateCharacters that will return true if given input string has any duplicated letters.
@@ -9,3 +9,5 @@ interface DuplicateChecker {
 
     boolean hasDuplicateCharacters(String input);
 }
+
+

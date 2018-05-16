@@ -1,6 +1,6 @@
-package pl.sii.eu;
+package main.java.pl.sii.eu;
 
-import pl.sii.eu.model.Amount;
+import main.java.pl.sii.eu.model.Amount;
 
 /**
  * Implement CurrencyConverter that will convert {@link Amount} instances between EUR & PLN {@link pl.sii.eu.model.Currency}.
